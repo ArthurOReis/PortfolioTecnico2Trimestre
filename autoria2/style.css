@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    margin-top: 20em;
+}
+
+.numero_misterioso {
+    font-size: 7em;
+}
+
+.input_chute {
+    font-size: 4em;
+    padding: 1em;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.botao_chute {
+    font-size: 5em;
+    padding: .65em;
+    border: 1px solid black;
+    border-radius: 15px;
+}
